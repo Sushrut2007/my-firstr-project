@@ -7,3 +7,5 @@ area = h * w
 
 
 print(f"Area of rectangle is : {area} ")
+
+
